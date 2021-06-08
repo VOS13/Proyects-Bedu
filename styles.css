@@ -1,9 +1,25 @@
-body {
-  background-color: antiquewhite;
+.nav{
+  background-color: #025157;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
-.Slogan {
-  color: #d63dde;
+body {
+  background-color: #fffbf7;
+}
+
+button{
+  color: #fff;
+  background-color:  #025157;
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+}
+
+.logo {
+  position: relative;
+  
 }
 
 h1 {
