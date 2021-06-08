@@ -1,12 +1,10 @@
 .nav{
   text-align: center;
   background-color: #025157;
-}
-
-header{
   max-width: unset;
   min-height: 50px;
 }
+
 li{
   display: inline;
 }
