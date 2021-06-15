@@ -28,6 +28,11 @@ button{
   display: inline;
 }
 
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 h1 {
   color: #025157;
 }
